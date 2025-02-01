@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300" height="200" viewBox="0 0 300 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="300" height="200" fill="#2A2A2A"/>
+  
+  <!-- Game Controller Icon -->
+  <path d="M150 70C127.909 70 110 87.9086 110 110C110 132.091 127.909 150 150 150C172.091 150 190 132.091 190 110C190 87.9086 172.091 70 150 70ZM145 100H140V110H130V115H140V125H145V115H155V110H145V100ZM165 105C162.791 105 161 106.791 161 109C161 111.209 162.791 113 165 113C167.209 113 169 111.209 169 109C169 106.791 167.209 105 165 105ZM175 95C172.791 95 171 96.7909 171 99C171 101.209 172.791 103 175 103C177.209 103 179 101.209 179 99C179 96.7909 177.209 95 175 95Z" fill="#4CAF50"/>
+  
+  <!-- Text -->
+  <text x="150" y="180" fill="#FFFFFF" font-family="Arial" font-size="16" text-anchor="middle">Game Preview</text>
+</svg>
